@@ -9,7 +9,6 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **React** and **Flutter**
-- 💬 Ask me about **C++, Data Structures, and Algorithms**
 - 📫 How to reach me: **ramkiran6936@gmail.com**
 - 📍 Based in **Kerala, India**
 
