@@ -1,16 +1,16 @@
 <h1 align="center">Hi Guys 👋, I'm Ram Kiran</h1>
 
 <h3 align="center">
-  I am a  Computer Science  student at <strong>Muthoot Institute of Technology and Science</strong>, and an aspiring developer passionate about building high-performance software. I enjoy bridging the gap between academic theory and practical, real-world applications.
+  I am a  Computer Science  student at <strong>Muthoot Institute of Technology and Science</strong>, and an aspiring developer passionate about building high-performance software.
 </h3>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🌱 I’m currently learning **React** and **Flutter**
-- 📫 How to reach me: **ramkiran6936@gmail.com**
-- 📍 Based in **Kerala, India**
+-  I’m currently learning **React** and **Data Analytics **
+-  How to reach me: **ramkiran6936@gmail.com**
+-  Based in **Kerala, India**
 
 ---
 
