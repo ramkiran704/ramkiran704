@@ -8,7 +8,7 @@
 
 ###  About Me
 
--  I’m currently learning **React** and **Data Analytics **
+-  I’m currently learning **React** and **Data Analytics**
 -  How to reach me: **ramkiran6936@gmail.com**
 -  Based in **Kerala, India**
 
